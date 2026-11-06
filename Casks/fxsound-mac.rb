@@ -1,6 +1,6 @@
 cask "fxsound-mac" do
-  version "0.1.0"
-  sha256 "5a35f31682538631370c3b4462aac1b79cab6cf5de285afe7d060335b0382d93"
+  version "0.1.1"
+  sha256 "3e2c61b548f36caa3118cef501f50b44532a17fd6716e25619188300a75246c8"
 
   url "https://github.com/thanhpham1108/fxsound-macos-port/releases/download/v#{version}/FxSound-Mac-#{version}-arm64.zip"
   name "FxSound Mac"
